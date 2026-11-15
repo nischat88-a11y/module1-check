@@ -1,0 +1,4 @@
+Get-CimInstance Win32_Processor
+Get-CimInstance Win32_PhysicalMemory
+Get-CimInstance Win32_LogicalDisk
+Get-ComputerInfo
